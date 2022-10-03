@@ -1,0 +1,2 @@
+# Diabetic-Prediction-
+KNN,SNM
